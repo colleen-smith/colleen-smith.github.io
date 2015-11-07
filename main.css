@@ -1,0 +1,25 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+background-color: rgb(48, 173, 186);
+color: rgb(232, 235, 202);
+text-align: center;
+font-size: 1.2em;
+}
+
+a:link {
+	color: rgb(232, 235, 202);
+	font-size: 1.2em;
+}
+
+a:visited {
+	color: rgb(232, 235, 202);
+	font-size: 1.2em;
+}
+
+a:hover {
+		color: rgb(232, 235, 202);
+	font-size: 1.3em;
+}
+
