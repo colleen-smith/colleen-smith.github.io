@@ -10,3 +10,9 @@
 [submodule "slider"]
 	path = slider
 	url = https://github.com/colleen-smith/slider.git
+[submodule "timing"]
+	path = timing
+	url = https://github.com/colleen-smith/timing.git
+[submodule "lightbox"]
+	path = lightbox
+	url = https://github.com/colleen-smith/lightbox.git
